@@ -7,6 +7,6 @@
     <script>
         console.log("kenblockchainlabs Javascript");
         document.write("wagmi!");
-    </script>
+   </script>
 </body>
 </html>
