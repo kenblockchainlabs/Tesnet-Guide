@@ -62,4 +62,4 @@ cline push action inery.token transfer '["YourAccountName", "away", "1.0000 TEST
 cline push action inery.token transfer '["YourAccountName", "bintangnl", "1.0000 TEST", "Here Is 1 TEST for you bro "]' -p YourAccountName
 cline push action inery.token transfer '["YourAccountName", "blacktokyoo", "1.0000 TEST", "Here Is 1 TEST for you bro "]' -p YourAccountName
 ```
-## don't forget to send your token to me to show your love :) my account: `alfonova`
+
