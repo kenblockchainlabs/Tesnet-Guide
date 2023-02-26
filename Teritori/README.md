@@ -1,4 +1,4 @@
-
+<p align="center">
   <img height="100" height="auto" src="https://exp.nodeist.net/logos/tori.jpg">
 </p>
 
